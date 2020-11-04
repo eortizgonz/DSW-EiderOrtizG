@@ -130,6 +130,7 @@ li a:hover{
 
 .msjBienvenida{
 	text-align: center;
+	color:gray;
 }
 
 
@@ -155,6 +156,7 @@ li a:hover{
 
 .especifico{
 	text-align: center;
+	color:gray;
 }
 
 .divFooter{
@@ -166,5 +168,91 @@ footer p{
 	color: white;
 	margin: .1px;
 	font-size: 1.2em;
+
+}
+/*Fin pagina principal*/
+
+
+/*Inicio pagina concepto1 y concepto 2*/
+.divParraConcepto1{
+
+	width: 40%;
+	text-align: justify;
+	padding-left: 90px;
+	font-size: 1.5em;
+}
+
+.divImgConcepto1{
+	position: absolute;
+	padding-left: 600px;
+	top: 360px	
+
+}
+
+.imgIlineConcepto1{
+	height: 200px;
+	
+}
+
+.divParraConcepto1 h3{
+	border-bottom: 3px solid #F0B429;
+	padding-bottom: 4px;
+	font-size: 1.6em;
+	font-weight: 300;
+	color:grey;
+}
+
+.divImgConcepto2{
+	position: absolute;
+	padding-left: 600px;
+	top: 300px	
+
+}
+
+.imgIlineConcepto2{
+	height: 300px;
+	padding-left: 40px;
+}
+
+.divImgConcepto3{
+	position: absolute;
+	padding-left: 600px;
+	top: 780px;	
+}
+
+.imgIlineConcepto3{
+	height: 170px;
+	padding-left: 40px;
+}
+
+/*Fin pagina concepto1 y concepto 2*/
+
+/*Inicio pagina Autor*/
+.sectionAutor{
+	padding-left: 150px;
+} 
+
+.imgAutor{
+	height: 250px;
+	width: 250px;
+}
+
+.divImgAutor{
+	position: absolute;
+	padding-left: 400px;
+	top: 450px;
+}
+.sectionAutor h3{
+
+	padding-right: 170px;
+	text-align: center;
+	color:gray;
+}
+.footerAutor{
+	position: relative;
+	background: #F0B429;
+	height: 100px;
+	top:300px;
+
 
 }
