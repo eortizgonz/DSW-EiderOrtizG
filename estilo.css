@@ -25,7 +25,7 @@
 }
 
 body{
-	font-family: franlin Gothic Italic;
+	font-family: 'franlin Gothic Italic', 'sans-serif';
 }
 
 header{
@@ -256,3 +256,32 @@ footer p{
 
 
 }
+/*fin pagina Autor*/
+
+/*Inicio pagina recurso 1 y recurso 2*/
+.videoR1{
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.tituloVideo1 h3{
+	text-align: center;
+	border-bottom: 3px solid #F0B429;
+	padding-bottom: 4px;
+	font-size: 1.6em;
+	font-weight: 300;
+	color:grey;
+}
+
+.videoR2{
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.tituloVideo2 h3{
+	text-align: center;
+	border-bottom: 3px solid #F0B429;
+	padding-bottom: 4px;
+	font-size: 1.6em;
+	font-weight: 300;
+	color:grey;
