@@ -34,7 +34,7 @@ header{
 
 footer{
 	background: #F0B429;
-	height: 100px;
+	height: 140px;
 }
 .contendor{
 	display: inline-block;
@@ -162,6 +162,7 @@ li a:hover{
 .divFooter{
 	text-align: center;
 	padding: 17px;
+
 }
 
 footer p{
@@ -251,7 +252,7 @@ footer p{
 .footerAutor{
 	position: relative;
 	background: #F0B429;
-	height: 100px;
+	height: 150px;
 	top:300px;
 
 
@@ -285,3 +286,23 @@ footer p{
 	font-size: 1.6em;
 	font-weight: 300;
 	color:grey;
+}
+	/*Fin pagina recurso 1 y recurso 2*/
+
+
+	/*inicio pagina autoevaluacion 1 y autoevaluacion 2*/
+
+.sopaLetras{
+	text-align: center;
+	margin-bottom: 15px;
+}
+/*Finzaliza pagina de autoevaluacion 1 y autoevaluación 2*/
+
+/*inicio pagina autoevaluacion matriz pdf*/
+
+.divPdf{
+	
+	text-align: center;
+	margin-bottom: 10px;
+
+}
